@@ -1,5 +1,6 @@
 # StatDT 
-Back-End code used in **Introduction to Data Technologies** course for developing a Single Page Application with Flask and Vue.js.
+Back-End code used in **Introduction to Data Technologies** course for developing a Single Page Application with 
+[Flask](https://flask.palletsprojects.com/) and [Vue.js](https://vuejs.org/).
 
 ## Introducion
 Original project serves the purpose of learning how to interact with Neo4j from Python using the Neo4j Python Driver.
